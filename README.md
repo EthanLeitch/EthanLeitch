@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - ➡️ Pronouns: he/him
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EthanLeitch&theme=dark&background=000000)](https://git.io/streak-stats) -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EthanLeitch&theme=tokyonight)
