@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ### Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=EthanLeitch&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLeitch&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLeitch&layout=compact&theme=tokyonight&count_private=true)
