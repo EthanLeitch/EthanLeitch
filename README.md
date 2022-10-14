@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my CRUD webapp for technology class
-- 🌱 I’m currently learning NodeJS web development
+- 🔭 I’m currently working on [ao3scraper](https://github.com/EthanLeitch/ao3scraper)
+- 🌱 I’m currently studying for end-of-year exams 
 - ➡️ Pronouns: he/him
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EthanLeitch&theme=dark&background=000000)](https://git.io/streak-stats) -->
