@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [ao3scraper](https://github.com/EthanLeitch/ao3scraper)
+- 🔭 I’m currently working my [YouTube channel](https://www.youtube.com/channel/UCwtiAXTkPdOsw9DGpspRAnQ)
 - 🌱 I’m currently studying for end-of-year exams 
 - ➡️ Pronouns: he/him
 
