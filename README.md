@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on my [YouTube channel](https://www.youtube.com/channel/UCwtiAXTkPdOsw9DGpspRAnQ)
-- 🌱 I’m currently studying for end-of-year exams 
 - ➡️ Pronouns: he/him
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EthanLeitch&theme=dark&background=000000)](https://git.io/streak-stats) -->
