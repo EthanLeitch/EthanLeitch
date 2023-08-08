@@ -1,3 +1,3 @@
-Have you checked out [my website](https://ethanleitch.github.io/)?
+Have you checked out [my website](https://ethanleitch.dev)?
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EthanLeitch&theme=dark&background=000000)](https://git.io/streak-stats) -->
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=EthanLeitch&theme=tokyonight&count_private=true) -->
